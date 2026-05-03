@@ -1,4 +1,6 @@
 venv
 .idea
 BytePairEncoding.iml
+ __pycache__/
+
 
